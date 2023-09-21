@@ -2,10 +2,10 @@
   "name": "example-test-cicd",
   "version": "0.1.0",
   "private": true,
-  "homepgae":"https://Nassoyan.github.io/nextTestCicd",
+  "homepage":"https://nassoyan.github.io/nextTestCiCd",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
